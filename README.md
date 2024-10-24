@@ -1,4 +1,4 @@
-# DevOps Engineer Assessment
+# GitLab CI/CD on Kubernetese
 
 ## Objective
 Host an open-source GitLab CE version inside **Google Cloud Autopilot** or **GKE Standard**, then use GitLab CI/CD to build and deploy a sample API on the same GKE cluster in another namespace. Demonstrate the API's functionality and ensure security best practices are implemented.
