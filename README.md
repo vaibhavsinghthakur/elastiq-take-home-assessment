@@ -6,7 +6,7 @@ Host an open-source GitLab CE version inside **Google Cloud Autopilot** or **GKE
 ## Step-by-Step Instructions:
 
 1. **Set up Google Cloud Free Account**  
-   - [Sign up](https://cloud.google.com/free/?hl=en) for a free Google Cloud account with $300 credits.
+   - [Sign up](https://cloud.google.com/free/?hl=en) for a free Google Cloud account.
 
 2. **Host GitLab CE in GKE:**  
    - [Install and configure](https://docs.gitlab.com/charts/) the open-source GitLab CE version on **Google Kubernetes Engine (GKE)**.  
