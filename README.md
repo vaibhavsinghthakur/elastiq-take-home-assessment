@@ -1,9 +1,11 @@
 # GitLab CI/CD on Kubernetes
 
 ## Objective
-Host an open-source GitLab CE version inside **Google Cloud Autopilot** or **GKE Standard**, then use GitLab CI/CD to build and deploy a sample API on the same GKE cluster in another namespace. Demonstrate the API's functionality and ensure security best practices are implemented.
+Host an open-source GitLab CE version inside **Google Cloud Autopilot**, **GKE Standard**, or the equivalent on **AWS** or **Azure**. Then, use GitLab CI/CD to build and deploy a sample API on the same Kubernetes cluster in a separate namespace. Demonstrate the API's functionality and ensure security best practices are implemented.
 
-## Step-by-Step Instructions:
+> **Note:** Feel free to use any public cloud provider from **AWS**, **GCP**, or **Azure**.
+
+## Step-by-Step Instructions for GCP implemetation:
 
 1. **Set up Google Cloud Free Account**  
    - [Sign up](https://cloud.google.com/free/?hl=en) for a free Google Cloud account.
